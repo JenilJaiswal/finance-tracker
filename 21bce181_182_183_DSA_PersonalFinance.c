@@ -1,5 +1,4 @@
 /* 
-
 NOTE: This program will create two additional files in the same directory as the code. 
 They will NOT be removed automatically as they are to be used during later executions of code too. 
 These files are "Bookings.csv" and "LoginData.txt". 
